@@ -22,7 +22,7 @@ Lately, I've been deep in the **Model Context Protocol (MCP) ecosystem** — bui
 - 🧠 Exploring the intersection of **AI tooling × domain-specific workflows** (BIM, media production)
 - 🛠️ Building **MCP servers** that bridge Claude to Autodesk Revit, project trackers, and more
 - 🎬 Side project: AI-generated mythological short film featuring **Bhudevi (Prithvi Devi)**
-- 📫 Reach me at **souvik@storyvord.io**
+- 📫 Reach me at **souviksarkar260123@gmail.com**
 
 ---
 
