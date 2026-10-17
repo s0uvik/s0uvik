@@ -1,137 +1,184 @@
-<h1 align="center">Hi, I'm Souvik Sarkar 👋</h1>
+
+<h1 align="center">Hey, I'm Souvik Sarkar 👋</h1>
+
+<h3 align="center">
+  Full-Stack Engineer · Applied AI · Developer Tooling
+</h3>
 
 <p align="center">
-  <b>Frontend-heavy Fullstack Developer</b> · Building AI-powered products at <a href="https://storyvord.com">Storyvord</a>
+  I build production-ready web applications, AI-powered workflows, and tools that connect LLMs with real-world software.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/s0uvik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:souviksarkar260123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://souviksarkar.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://souviksarkar.in">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/s0uvik">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:souviksarkar260123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-@Storyvord-7C3AED?style=flat-square" alt="Storyvord" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20MCP-0891B2?style=flat-square" alt="AI and MCP" />
+  <img src="https://img.shields.io/badge/Exploring-BIM%20Automation-059669?style=flat-square" alt="BIM Automation" />
 </p>
 
 ---
 
-### 🚀 About Me
+## `$ whoami`
 
-I'm a frontend-leaning fullstack engineer who ships production software at a fast-moving startup. I spend most of my day in a Next.js codebase, but I'm equally comfortable wiring up backends, designing APIs, and building developer tooling.
+I'm a frontend-heavy full-stack engineer who enjoys turning complex problems into useful software.
 
-Lately, I've been deep in the **Model Context Protocol (MCP) ecosystem** — building integrations that let LLMs talk to real systems like Revit, internal trackers, and custom workflows. I care about clean interfaces, developer ergonomics, and shipping things that actually get used.
+My work spans **frontend architecture, backend APIs, applied AI, and developer tooling**. I work primarily with React, Next.js, TypeScript, Python, and Django, and I'm increasingly exploring how AI can interact with existing software through the Model Context Protocol (MCP).
 
-- 🏗️ Currently building AI-integrated product features at **Storyvord**
-- 🧠 Exploring the intersection of **AI tooling × domain-specific workflows** (BIM, media production)
-- 🛠️ Building **MCP servers** that bridge Claude to Autodesk Revit, project trackers, and more
-- 🎬 Side project: AI-generated mythological short film featuring **Bhudevi (Prithvi Devi)**
-- 📫 Reach me at **souviksarkar260123@gmail.com**
+Currently, I'm interested in a question:
 
----
+**What happens when AI moves beyond generating text and starts interacting with the tools people use to work?**
 
-### 🧰 Tech Stack
+That curiosity has led me to explore MCP servers, Autodesk Revit automation, AI-assisted workflows, and domain-specific applications.
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-</p>
-
-**Backend & APIs**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-</p>
-
-**AI & Tooling**
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-5A67D8?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-</p>
-
-**Database & Infra**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-</p>
+- 🚀 Building AI-integrated product features at [Storyvord](https://storyvord.com)
+- 🧩 Developing MCP integrations for software and engineering workflows
+- 🏗️ Exploring AI × BIM, including Autodesk Revit automation
+- 🎬 Experimenting with AI-generated mythological filmmaking
+- ⚙️ Learning more about AI agents, system design, and production infrastructure
 
 ---
 
-### 🔨 Featured Projects
+## 🧭 What I Work On
 
 <table>
   <tr>
-    <td width="50%">
-      <h4>🏗️ Revit MCP Server</h4>
-      <p>An MCP server written in C# that bridges Claude to Autodesk Revit via HTTP endpoints. Exposes comprehensive GET and CREATE operations across the Revit API — architectural, structural, MEP, and documentation elements. Enables natural-language-driven BIM workflows.</p>
-      <p><code>C#</code> <code>MCP</code> <code>Revit API</code> <code>HTTP</code></p>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend Engineering</h3>
+      <p>Building responsive interfaces, reusable component systems, and maintainable application architectures.</p>
+      <p><code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
     </td>
-    <td width="50%">
-      <h4>🎬 Bhudevi — Mythological AI Film</h4>
-      <p>Cinematic short-film project exploring Hindu goddess Bhudevi through AI-generated imagery. Built a production pipeline using Higgsfield's Nano Banana models orchestrated via the Claude Chrome extension, with a shot-by-shot storyboard.</p>
-      <p><code>Generative AI</code> <code>Pipeline</code> <code>Creative Direction</code></p>
+    <td width="50%" valign="top">
+      <h3>🧠 Applied AI</h3>
+      <p>Exploring LLM integrations, retrieval-augmented generation, tool calling, and agentic workflows.</p>
+      <p><code>OpenAI</code> <code>LangChain</code> <code>RAG</code> <code>MCP</code></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4>📋 Storyvord Platform</h4>
-      <p>Leading frontend development at Storyvord — a platform for the film production industry. Built in Next.js with a small team of interns, shipping features across project management, collaboration, and AI-assisted workflows.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Django REST</code></p>
+    <td width="50%" valign="top">
+      <h3>🔧 Backend Engineering</h3>
+      <p>Designing APIs, connecting data layers, and building the backend services behind web applications.</p>
+      <p><code>Python</code> <code>Django REST</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
     </td>
-    <td width="50%">
-      <h4>🔌 Internal MCP Integrations</h4>
-      <p>Built custom MCP tooling for team workflows — meeting session tracking, PR review surfacing via CodeRabbit, and branch-protection-aware Git workflows for Claude Code.</p>
-      <p><code>MCP</code> <code>Python</code> <code>Claude Code</code></p>
+    <td width="50%" valign="top">
+      <h3>🏗️ Developer Tooling</h3>
+      <p>Connecting AI assistants with external systems and exploring automation for complex, domain-specific workflows.</p>
+      <p><code>C#</code> <code>Revit API</code> <code>Claude Code</code> <code>Docker</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s0uvik&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0uvik&layout=compact&theme=default&hide_border=true" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Revit MCP Server</h3>
+      <p><strong>AI × Building Information Modeling</strong></p>
+      <p>An MCP server built with C# that connects Claude to Autodesk Revit through HTTP-based communication. Exposes operations for querying and creating supported Revit elements across architectural, structural, MEP, and documentation workflows.</p>
+      <p><code>C#</code> <code>MCP</code> <code>Revit API</code> <code>HTTP</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 Bhudevi — AI Film</h3>
+      <p><strong>Generative AI × Creative Production</strong></p>
+      <p>An experimental mythological short-film project centered on Bhudevi (Prithvi Devi). Exploring AI-generated cinematic imagery, shot-by-shot storyboarding, visual consistency, and an AI-assisted creative production pipeline.</p>
+      <p><code>Generative AI</code> <code>Storyboarding</code> <code>Creative Direction</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Storyvord</h3>
+      <p><strong>Production Management × Applied AI</strong></p>
+      <p>Working on a platform designed for film production teams, with features supporting project management, collaboration, and AI-assisted production workflows. Contributing to frontend development and working across the stack.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Django REST</code> <code>AI</code></p>
+      <p><a href="https://storyvord.com">Explore Storyvord ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔌 Internal MCP Integrations</h3>
+      <p><strong>AI Assistants × Developer Workflows</strong></p>
+      <p>Building internal tooling for meeting-session tracking, surfacing pull-request reviews, and supporting Git workflows with branch-protection awareness in Claude Code.</p>
+      <p><code>MCP</code> <code>Python</code> <code>GitHub</code> <code>Claude Code</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+<p>
+  <strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" alt="React, Next.js, TypeScript, Tailwind CSS, Redux" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s0uvik&theme=default&hide_border=true" />
+<p>
+  <strong>Backend & APIs</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,django,fastapi,postgres" alt="Node.js, Python, Django, FastAPI, PostgreSQL" />
+</p>
+
+<p>
+  <strong>AI & Developer Tooling</strong><br/>
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-6366F1?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Autodesk%20Revit-BIM-0696D7?style=flat-square" alt="Autodesk Revit" />
+</p>
+
+<p>
+  <strong>Databases, Infrastructure & Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,git,github,linux" alt="PostgreSQL, MongoDB, Redis, Docker, AWS, Git, GitHub, Linux" />
 </p>
 
 ---
 
-### 🌱 What I'm Learning
+## 📈 GitHub Activity
 
-- Deeper into the MCP protocol spec and building domain-specific servers
-- Applied AI engineering — RAG, agents, evaluation frameworks
-- Production Python (coming from a JS-first background)
-- Local LLM inference and hardware tradeoffs
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=s0uvik&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0uvik&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=s0uvik&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-### 💬 Let's Connect
+## 🌱 Currently Exploring
 
-I'm always up for conversations about MCP, AI tooling, frontend architecture, or building at startups. Drop me a message.
+- **MCP:** Protocol capabilities, tool design, and domain-specific integrations
+- **AI Engineering:** RAG architectures, agentic systems, and evaluation
+- **BIM Automation:** Connecting AI workflows with engineering software
+- **System Design:** Building reliable, scalable applications and backend services
+- **Infrastructure:** Docker, AWS, CI/CD, and production deployment
+
+---
+
+## 💬 Let's Connect
+
+Interested in AI-powered products, frontend architecture, MCP, or developer tools? I'm always happy to exchange ideas and discuss what we're building.
 
 <p align="center">
-  <i>"Shipping beats perfecting."</i>
+  <a href="https://linkedin.com/in/s0uvik">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://souviksarkar.in">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:souviksarkar260123@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <em>Build useful things. Understand the systems behind them. Keep shipping.</em>
 </p>
