@@ -1,3 +1,7 @@
+<!-- Header banner (decorative) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0891B2&height=120&section=header&animation=fadeIn" alt="" width="100%" />
+</p>
 
 <h1 align="center">Hey, I'm Souvik Sarkar 👋</h1>
 
@@ -27,7 +31,7 @@
   <img src="https://img.shields.io/badge/Exploring-BIM%20Automation-059669?style=flat-square" alt="BIM Automation" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=2" alt="" width="100%" />
 
 ## `$ whoami`
 
@@ -43,7 +47,7 @@ I'm particularly interested in how AI can move beyond generating text to interac
 - 🏗️ Exploring AI × BIM, including Autodesk Revit automation
 - ☁️ Learning to build, deploy, and operate reliable applications using cloud infrastructure and CI/CD
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=2" alt="" width="100%" />
 
 ## 🧭 What I Work On
 
@@ -52,6 +56,9 @@ I'm particularly interested in how AI can move beyond generating text to interac
     <td width="50%" valign="top">
       <h3>🎨 Frontend Engineering</h3>
       <p>Building responsive interfaces, reusable component systems, and maintainable application architectures with a focus on performance and user experience.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux&theme=dark" height="36" alt="React, Next.js, TypeScript, Tailwind CSS, Redux" />
+      </p>
       <p>
         <code>React</code>
         <code>Next.js</code>
@@ -63,6 +70,10 @@ I'm particularly interested in how AI can move beyond generating text to interac
     <td width="50%" valign="top">
       <h3>🧠 Applied AI</h3>
       <p>Building LLM-powered applications, retrieval-augmented generation pipelines, AI integrations, and agentic workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain" />
+      </p>
       <p>
         <code>OpenAI</code>
         <code>LangChain</code>
@@ -76,6 +87,9 @@ I'm particularly interested in how AI can move beyond generating text to interac
       <h3>🔧 Backend Engineering</h3>
       <p>Designing REST APIs, backend services, and data-driven applications with a focus on reliability, scalability, and maintainability.</p>
       <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres&theme=dark" height="36" alt="Node.js, Express.js, Python, Django REST, FastAPI, PostgreSQL" />
+      </p>
+      <p>
         <code>Node.js</code>
         <code>Express.js</code>
         <code>Python</code>
@@ -88,6 +102,9 @@ I'm particularly interested in how AI can move beyond generating text to interac
       <h3>☁️ DevOps & Infrastructure</h3>
       <p>Containerizing applications, automating deployment pipelines, and exploring cloud infrastructure, CI/CD, and container orchestration.</p>
       <p>
+        <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,jenkins,kubernetes&theme=dark" height="36" alt="Docker, AWS, CI/CD, Jenkins, Kubernetes" />
+      </p>
+      <p>
         <code>Docker</code>
         <code>AWS</code>
         <code>CI/CD</code>
@@ -98,90 +115,107 @@ I'm particularly interested in how AI can move beyond generating text to interac
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=2" alt="" width="100%" />
 
 ## 🛠️ Technology Stack
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="18" alt="React" /> React &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="18" alt="Next.js" /> Next.js &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="18" alt="TypeScript" /> TypeScript &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="18" alt="Tailwind CSS" /> Tailwind CSS &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=redux" height="18" alt="Redux" /> Redux
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="44" alt="Redux" /><br /><sub><b>Redux</b></sub></td>
+  </tr>
+</table>
 
 ### 🔧 Backend & APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="18" alt="Node.js" /> Node.js &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="18" alt="Express.js" /> Express.js &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="18" alt="Python" /> Python &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=django" height="18" alt="Django" /> Django REST Framework &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="18" alt="FastAPI" /> FastAPI
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="44" alt="Express.js" /><br /><sub><b>Express.js</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="44" alt="Django" /><br /><sub><b>Django REST Framework</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
+  </tr>
+</table>
 
 ### 🧠 AI & Developer Tooling
 
-<p>
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="20" alt="OpenAI" /> OpenAI &nbsp;·&nbsp;
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="20" alt="LangChain" /> LangChain &nbsp;·&nbsp;
-  <img src="https://img.shields.io/badge/-MCP-6366F1?style=flat-square" height="20" alt="MCP" /> Model Context Protocol &nbsp;·&nbsp;
-  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" height="20" alt="Claude" /> Claude
-</p>
+<table>
+  <tr>
+    <td align="center" width="140"><img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI" /><br /><sub><b>OpenAI</b></sub></td>
+    <td align="center" width="140"><img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain" /><br /><sub><b>LangChain</b></sub></td>
+    <td align="center" width="140"><img src="https://img.shields.io/badge/-MCP-6366F1?style=for-the-badge" height="28" alt="MCP" /><br /><sub><b>Model Context Protocol</b></sub></td>
+    <td align="center" width="140"><img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28" alt="Claude" /><br /><sub><b>Claude</b></sub></td>
+  </tr>
+</table>
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="18" alt="PostgreSQL" /> PostgreSQL &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="18" alt="MongoDB" /> MongoDB &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" height="18" alt="Redis" /> Redis
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="44" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="44" alt="Redis" /><br /><sub><b>Redis</b></sub></td>
+  </tr>
+</table>
 
 ### ☁️ DevOps & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="18" alt="Docker" /> Docker &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="18" alt="AWS" /> AWS &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=jenkins" height="18" alt="Jenkins" /> Jenkins &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="18" alt="Kubernetes" /> Kubernetes &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=githubactions" height="18" alt="GitHub Actions" /> GitHub Actions &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" height="18" alt="Linux" /> Linux
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS" /><br /><sub><b>AWS</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="44" alt="Jenkins" /><br /><sub><b>Jenkins</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="44" alt="Kubernetes" /><br /><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions" /><br /><sub><b>GitHub Actions</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux" /><br /><sub><b>Linux</b></sub></td>
+  </tr>
+</table>
 
 ### 🧰 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="18" alt="Git" /> Git &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="18" alt="GitHub" /> GitHub &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" height="18" alt="Figma" /> Figma
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="44" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
+  </tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=2" alt="" width="100%" />
 
 ## 🌱 Currently Exploring
 
-- **AI Engineering:** RAG architectures, AI agents, tool calling, and evaluation frameworks
-- **MCP:** Building domain-specific integrations between AI assistants and external software
-- **BIM Automation:** Connecting AI workflows with Autodesk Revit and engineering software
-- **System Design:** Designing reliable, scalable frontend and backend systems
-- **DevOps & Cloud:** AWS, Docker, CI/CD pipelines, Jenkins, Kubernetes, and production deployments
+<table>
+  <tr><td><b>AI Engineering</b></td><td>RAG architectures, AI agents, tool calling, and evaluation frameworks</td></tr>
+  <tr><td><b>MCP</b></td><td>Building domain-specific integrations between AI assistants and external software</td></tr>
+  <tr><td><b>BIM Automation</b></td><td>Connecting AI workflows with Autodesk Revit and engineering software</td></tr>
+  <tr><td><b>System Design</b></td><td>Designing reliable, scalable frontend and backend systems</td></tr>
+  <tr><td><b>DevOps & Cloud</b></td><td>AWS, Docker, CI/CD pipelines, Jenkins, Kubernetes, and production deployments</td></tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=2" alt="" width="100%" />
 
 ## 💬 Let's Connect
 
 Interested in AI-powered products, frontend architecture, backend engineering, DevOps, or developer tooling? I'm always happy to exchange ideas and discuss what we're building.
 
 <p align="center">
-  <a href="https://linkedin.com/in/s0uvik">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://souviksarkar.in">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:souviksarkar260123@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/s0uvik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://souviksarkar.in"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:souviksarkar260123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
   <em>Build useful things. Understand the systems behind them. Keep shipping.</em>
+</p>
+
+<!-- Footer banner (decorative) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:7C3AED&height=100&section=footer" alt="" width="100%" />
 </p>
