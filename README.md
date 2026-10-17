@@ -102,38 +102,60 @@ I'm particularly interested in how AI can move beyond generating text to interac
 
 ## 🛠️ Technology Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" alt="React, Next.js, TypeScript, Tailwind CSS, Redux" />
+  <img src="https://skillicons.dev/icons?i=react" height="18" alt="React" /> React &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="18" alt="Next.js" /> Next.js &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="18" alt="TypeScript" /> TypeScript &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="18" alt="Tailwind CSS" /> Tailwind CSS &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" height="18" alt="Redux" /> Redux
 </p>
 
-### Backend & APIs
+### 🔧 Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres" alt="Node.js, Express.js, Python, Django, FastAPI, PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="18" alt="Node.js" /> Node.js &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="18" alt="Express.js" /> Express.js &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="18" alt="Python" /> Python &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" height="18" alt="Django" /> Django REST Framework &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="18" alt="FastAPI" /> FastAPI
 </p>
 
-### AI & Developer Tooling
+### 🧠 AI & Developer Tooling
 
 <p>
-  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-6366F1?style=flat-square" alt="MCP" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Autodesk%20Revit-BIM-0696D7?style=flat-square" alt="Autodesk Revit" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="20" alt="OpenAI" /> OpenAI &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="20" alt="LangChain" /> LangChain &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/-MCP-6366F1?style=flat-square" height="20" alt="MCP" /> Model Context Protocol &nbsp;·&nbsp;
+  <img src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" height="20" alt="Claude" /> Claude
 </p>
 
-### DevOps, Cloud & Infrastructure
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,kubernetes,linux,githubactions" alt="Docker, AWS, Jenkins, Kubernetes, Linux, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="18" alt="PostgreSQL" /> PostgreSQL &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="18" alt="MongoDB" /> MongoDB &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="18" alt="Redis" /> Redis
 </p>
 
-### Databases & Tools
+### ☁️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,figma" alt="PostgreSQL, MongoDB, Redis, Git, GitHub, Figma" />
+  <img src="https://skillicons.dev/icons?i=docker" height="18" alt="Docker" /> Docker &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="18" alt="AWS" /> AWS &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" height="18" alt="Jenkins" /> Jenkins &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="18" alt="Kubernetes" /> Kubernetes &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" height="18" alt="GitHub Actions" /> GitHub Actions &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="18" alt="Linux" /> Linux
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="18" alt="Git" /> Git &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="18" alt="GitHub" /> GitHub &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="18" alt="Figma" /> Figma
 </p>
 
 ---
