@@ -2,11 +2,11 @@
 <h1 align="center">Hey, I'm Souvik Sarkar 👋</h1>
 
 <h3 align="center">
-  Full-Stack Engineer · Applied AI · Developer Tooling
+  Full-Stack Engineer · Applied AI · DevOps
 </h3>
 
 <p align="center">
-  I build production-ready web applications, AI-powered workflows, and tools that connect LLMs with real-world software.
+  I build production-ready web applications, AI-powered workflows, and reliable software infrastructure.
 </p>
 
 <p align="center">
@@ -33,19 +33,15 @@
 
 I'm a frontend-heavy full-stack engineer who enjoys turning complex problems into useful software.
 
-My work spans **frontend architecture, backend APIs, applied AI, and developer tooling**. I work primarily with React, Next.js, TypeScript, Python, and Django, and I'm increasingly exploring how AI can interact with existing software through the Model Context Protocol (MCP).
+My work spans **frontend architecture, backend APIs, applied AI, and infrastructure**. I primarily work with React, Next.js, TypeScript, Python, and Django, while also building with Node.js and exploring modern DevOps practices.
 
-Currently, I'm interested in a question:
-
-**What happens when AI moves beyond generating text and starts interacting with the tools people use to work?**
-
-That curiosity has led me to explore MCP servers, Autodesk Revit automation, AI-assisted workflows, and domain-specific applications.
+I'm particularly interested in how AI can move beyond generating text to interact with real-world software, automate workflows, and solve domain-specific problems.
 
 - 🚀 Building AI-integrated product features at [Storyvord](https://storyvord.com)
-- 🧩 Developing MCP integrations for software and engineering workflows
+- 🎨 Developing modern web applications with React, Next.js, and TypeScript
+- 🧠 Exploring LLM applications, RAG systems, AI agents, and MCP integrations
 - 🏗️ Exploring AI × BIM, including Autodesk Revit automation
-- 🎬 Experimenting with AI-generated mythological filmmaking
-- ⚙️ Learning more about AI agents, system design, and production infrastructure
+- ☁️ Learning to build, deploy, and operate reliable applications using cloud infrastructure and CI/CD
 
 ---
 
@@ -55,61 +51,49 @@ That curiosity has led me to explore MCP servers, Autodesk Revit automation, AI-
   <tr>
     <td width="50%" valign="top">
       <h3>🎨 Frontend Engineering</h3>
-      <p>Building responsive interfaces, reusable component systems, and maintainable application architectures.</p>
-      <p><code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
+      <p>Building responsive interfaces, reusable component systems, and maintainable application architectures with a focus on performance and user experience.</p>
+      <p>
+        <code>React</code>
+        <code>Next.js</code>
+        <code>TypeScript</code>
+        <code>Tailwind CSS</code>
+        <code>Redux</code>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Applied AI</h3>
-      <p>Exploring LLM integrations, retrieval-augmented generation, tool calling, and agentic workflows.</p>
-      <p><code>OpenAI</code> <code>LangChain</code> <code>RAG</code> <code>MCP</code></p>
+      <p>Building LLM-powered applications, retrieval-augmented generation pipelines, AI integrations, and agentic workflows.</p>
+      <p>
+        <code>OpenAI</code>
+        <code>LangChain</code>
+        <code>RAG</code>
+        <code>MCP</code>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔧 Backend Engineering</h3>
-      <p>Designing APIs, connecting data layers, and building the backend services behind web applications.</p>
-      <p><code>Python</code> <code>Django REST</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
+      <p>Designing REST APIs, backend services, and data-driven applications with a focus on reliability, scalability, and maintainability.</p>
+      <p>
+        <code>Node.js</code>
+        <code>Express.js</code>
+        <code>Python</code>
+        <code>Django REST</code>
+        <code>FastAPI</code>
+        <code>PostgreSQL</code>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏗️ Developer Tooling</h3>
-      <p>Connecting AI assistants with external systems and exploring automation for complex, domain-specific workflows.</p>
-      <p><code>C#</code> <code>Revit API</code> <code>Claude Code</code> <code>Docker</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏗️ Revit MCP Server</h3>
-      <p><strong>AI × Building Information Modeling</strong></p>
-      <p>An MCP server built with C# that connects Claude to Autodesk Revit through HTTP-based communication. Exposes operations for querying and creating supported Revit elements across architectural, structural, MEP, and documentation workflows.</p>
-      <p><code>C#</code> <code>MCP</code> <code>Revit API</code> <code>HTTP</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 Bhudevi — AI Film</h3>
-      <p><strong>Generative AI × Creative Production</strong></p>
-      <p>An experimental mythological short-film project centered on Bhudevi (Prithvi Devi). Exploring AI-generated cinematic imagery, shot-by-shot storyboarding, visual consistency, and an AI-assisted creative production pipeline.</p>
-      <p><code>Generative AI</code> <code>Storyboarding</code> <code>Creative Direction</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 Storyvord</h3>
-      <p><strong>Production Management × Applied AI</strong></p>
-      <p>Working on a platform designed for film production teams, with features supporting project management, collaboration, and AI-assisted production workflows. Contributing to frontend development and working across the stack.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Django REST</code> <code>AI</code></p>
-      <p><a href="https://storyvord.com">Explore Storyvord ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 Internal MCP Integrations</h3>
-      <p><strong>AI Assistants × Developer Workflows</strong></p>
-      <p>Building internal tooling for meeting-session tracking, surfacing pull-request reviews, and supporting Git workflows with branch-protection awareness in Claude Code.</p>
-      <p><code>MCP</code> <code>Python</code> <code>GitHub</code> <code>Claude Code</code></p>
+      <h3>☁️ DevOps & Infrastructure</h3>
+      <p>Containerizing applications, automating deployment pipelines, and exploring cloud infrastructure, CI/CD, and container orchestration.</p>
+      <p>
+        <code>Docker</code>
+        <code>AWS</code>
+        <code>CI/CD</code>
+        <code>Jenkins</code>
+        <code>Kubernetes</code>
+      </p>
     </td>
   </tr>
 </table>
@@ -118,18 +102,21 @@ That curiosity has led me to explore MCP servers, Autodesk Revit automation, AI-
 
 ## 🛠️ Technology Stack
 
+### Frontend
+
 <p>
-  <strong>Frontend</strong><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" alt="React, Next.js, TypeScript, Tailwind CSS, Redux" />
 </p>
 
-<p>
-  <strong>Backend & APIs</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,fastapi,postgres" alt="Node.js, Python, Django, FastAPI, PostgreSQL" />
-</p>
+### Backend & APIs
 
 <p>
-  <strong>AI & Developer Tooling</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,postgres" alt="Node.js, Express.js, Python, Django, FastAPI, PostgreSQL" />
+</p>
+
+### AI & Developer Tooling
+
+<p>
   <img src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-6366F1?style=flat-square" alt="MCP" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
@@ -137,39 +124,33 @@ That curiosity has led me to explore MCP servers, Autodesk Revit automation, AI-
   <img src="https://img.shields.io/badge/Autodesk%20Revit-BIM-0696D7?style=flat-square" alt="Autodesk Revit" />
 </p>
 
+### DevOps, Cloud & Infrastructure
+
 <p>
-  <strong>Databases, Infrastructure & Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,git,github,linux" alt="PostgreSQL, MongoDB, Redis, Docker, AWS, Git, GitHub, Linux" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,kubernetes,linux,githubactions" alt="Docker, AWS, Jenkins, Kubernetes, Linux, GitHub Actions" />
 </p>
 
----
+### Databases & Tools
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=s0uvik&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0uvik&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=s0uvik&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,figma" alt="PostgreSQL, MongoDB, Redis, Git, GitHub, Figma" />
 </p>
 
 ---
 
 ## 🌱 Currently Exploring
 
-- **MCP:** Protocol capabilities, tool design, and domain-specific integrations
-- **AI Engineering:** RAG architectures, agentic systems, and evaluation
-- **BIM Automation:** Connecting AI workflows with engineering software
-- **System Design:** Building reliable, scalable applications and backend services
-- **Infrastructure:** Docker, AWS, CI/CD, and production deployment
+- **AI Engineering:** RAG architectures, AI agents, tool calling, and evaluation frameworks
+- **MCP:** Building domain-specific integrations between AI assistants and external software
+- **BIM Automation:** Connecting AI workflows with Autodesk Revit and engineering software
+- **System Design:** Designing reliable, scalable frontend and backend systems
+- **DevOps & Cloud:** AWS, Docker, CI/CD pipelines, Jenkins, Kubernetes, and production deployments
 
 ---
 
 ## 💬 Let's Connect
 
-Interested in AI-powered products, frontend architecture, MCP, or developer tools? I'm always happy to exchange ideas and discuss what we're building.
+Interested in AI-powered products, frontend architecture, backend engineering, DevOps, or developer tooling? I'm always happy to exchange ideas and discuss what we're building.
 
 <p align="center">
   <a href="https://linkedin.com/in/s0uvik">LinkedIn</a>
