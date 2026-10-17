@@ -121,71 +121,59 @@ I'm particularly interested in how AI can move beyond generating text to interac
 
 ### 🎨 Frontend
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React" /><br /><sub><b>React</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redux" width="44" alt="Redux" /><br /><sub><b>Redux</b></sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-161B22?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" />
+</p>
 
 ### 🔧 Backend & APIs
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="44" alt="Express.js" /><br /><sub><b>Express.js</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="44" alt="Python" /><br /><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="44" alt="Django" /><br /><sub><b>Django REST Framework</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI" /><br /><sub><b>FastAPI</b></sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-161B22?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-161B22?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+</p>
 
 ### 🧠 AI & Developer Tooling
 
-<table>
-  <tr>
-    <td align="center" width="140"><img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI" /><br /><sub><b>OpenAI</b></sub></td>
-    <td align="center" width="140"><img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain" /><br /><sub><b>LangChain</b></sub></td>
-    <td align="center" width="140"><img src="https://img.shields.io/badge/-MCP-6366F1?style=for-the-badge" height="28" alt="MCP" /><br /><sub><b>Model Context Protocol</b></sub></td>
-    <td align="center" width="140"><img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="28" alt="Claude" /><br /><sub><b>Claude</b></sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-161B22?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Claude-161B22?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude" />
+</p>
 
 ### 🗄️ Databases
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="44" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="44" alt="Redis" /><br /><sub><b>Redis</b></sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-161B22?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis" />
+</p>
 
 ### ☁️ DevOps & Cloud
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS" /><br /><sub><b>AWS</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jenkins" width="44" alt="Jenkins" /><br /><sub><b>Jenkins</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="44" alt="Kubernetes" /><br /><sub><b>Kubernetes</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="44" alt="GitHub Actions" /><br /><sub><b>GitHub Actions</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux" /><br /><sub><b>Linux</b></sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Jenkins-161B22?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Kubernetes-161B22?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+</p>
 
 ### 🧰 Tools
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git" /><br /><sub><b>Git</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="44" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:0891B2&height=2" alt="" width="100%" />
 
